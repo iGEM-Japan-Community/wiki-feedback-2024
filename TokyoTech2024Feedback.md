@@ -115,7 +115,7 @@
 |1  |   |   |   |3  |2  |Did the team use measurements of a part, device, or system to develop the model?|
 |   |1  |   |   |4  |1  |Does the modeling approach provide a good example for others?|
 
-#### Model
+#### Entrepreneurship
 
 |bad|   |   |   |   |good|Agenda Item|
 |:-:|:-:|:-:|:-:|:-:|:-:|:--|

@@ -65,60 +65,60 @@
 
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |1  |1  |2  |2  |How impressive is this project?|
-  |   |1  |2  |1  |1  |   |Did the project work or is it likely to work?|
-  |   |1  |2  |   |1  |2  |Is the project likely to have an impact?|
-  |   |   |1  |   |3  |2  |How well were engineering principles used (e.g., design-build-test cycle, use of standards, modularity, etc)?|
-  |   |   |   |2  |3  |1  |How thoughtful and thorough was the team's consideration of human practices?|
-  |   |   |1  |1  |4  |   |How much of the work did the team do themselves and how much was done by others?|
-  |   |   |1  |2  |2  |1  |Did the team design a project based on synthetic biology and standard components (BioBricks, software, etc)?|
-  |   |   |1  |1  |4  |   |Are the project components well documented on the team's wiki/Registry pages (parts should be documented in the Registry)?|
-  |   |   |   |5  |1  |   |How competent was the team at answering judge questions?|
+  |   |   |1  |1  |2  |1  |How impressive is this project?|
+  |   |1  |1  |1  |1  |   |Did the project work or is it likely to work?|
+  |   |1  |2  |   |   |2  |Is the project likely to have an impact?|
+  |   |   |1  |   |2  |2  |How well were engineering principles used (e.g., design-build-test cycle, use of standards, modularity, etc)?|
+  |   |   |   |1  |3  |1  |How thoughtful and thorough was the team's consideration of human practices?|
+  |   |   |   |1  |4  |   |How much of the work did the team do themselves and how much was done by others?|
+  |   |   |   |2  |2  |1  |Did the team design a project based on synthetic biology and standard components (BioBricks, software, etc)?|
+  |   |   |1  |1  |3  |   |Are the project components well documented on the team's wiki/Registry pages (parts should be documented in the Registry)?|
+  |   |   |   |5  |   |   |How competent was the team at answering judge questions?|
 
   #### Wiki
 
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |   |2  |2  |2  |How well does the wiki communicate the team's project and their goals?|
-  |   |   |   |2  |2  |2  |Did the team clearly document their project and support their results with convincing experimental evidence?|
-  |   |   |   |1  |1  |4  |Does the design of the wiki support visitors in finding and understanding the content?|
-  |   |   |1  |3  |1  |1  |Will the wiki be a compelling record of the team's project for future teams?|
-  |   |   |   |   |2  |4  |Is the content (including text, images, and prior work from iGEM teams and other research groups) on the wiki properly referenced and cited?|
+  |   |   |   |2  |1  |2  |How well does the wiki communicate the team's project and their goals?|
+  |   |   |   |2  |1  |2  |Did the team clearly document their project and support their results with convincing experimental evidence?|
+  |   |   |   |1  |1  |3  |Does the design of the wiki support visitors in finding and understanding the content?|
+  |   |   |1  |2  |1  |1  |Will the wiki be a compelling record of the team's project for future teams?|
+  |   |   |   |   |2  |3  |Is the content (including text, images, and prior work from iGEM teams and other research groups) on the wiki properly referenced and cited?|
 
   #### Presentation
 
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |2  |3  |1  |   |How well did the team communicate their project goals, design, and results with convincing evidence?|
-  |   |   |   |4  |2  |   |Does the visual design of the presentation support the communication of the technical content (project design, results and data analysis, and conclusions)?|
-  |   |   |2  |3  |1  |   |Did you find the presentation engaging?|
-  |   |   |   |4  |2  |   |Were images, prior work, background information, and supporting data acknowledged appropriately?|
+  |   |   |2  |2  |1  |   |How well did the team communicate their project goals, design, and results with convincing evidence?|
+  |   |   |   |3  |2  |   |Does the visual design of the presentation support the communication of the technical content (project design, results and data analysis, and conclusions)?|
+  |   |   |2  |3  |   |   |Did you find the presentation engaging?|
+  |   |   |   |4  |1  |   |Were images, prior work, background information, and supporting data acknowledged appropriately?|
 
   #### Integrated Human Practices
 
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |   |2  |2  |2  |How well was their Human Practices work integrated throughout the project?|
-  |   |   |   |3  |2  |1  |How inspiring an example is it to others?|
-  |   |   |   |1  |2  |3  |To what extent is the Human Practices work documented so that others can build upon it?|
-  |   |   |   |2  |2  |2  |How thoughtfully was it implemented? How well did they explain the context, rationale, and prior work?|
-  |   |   |1  |1  |3  |1  |How well did it incorporate different stakeholder views?|
-  |   |   |   |1  |3  |2  |To what extent did they convince you that their Human Practices activities helped create a project that is responsible and good for the world?|
+  |   |   |   |1  |2  |2  |How well was their Human Practices work integrated throughout the project?|
+  |   |   |   |3  |2  |   |How inspiring an example is it to others?|
+  |   |   |   |1  |2  |2  |To what extent is the Human Practices work documented so that others can build upon it?|
+  |   |   |   |2  |2  |1  |How thoughtfully was it implemented? How well did they explain the context, rationale, and prior work?|
+  |   |   |1  |1  |2  |1  |How well did it incorporate different stakeholder views?|
+  |   |   |   |1  |3  |   |To what extent did they convince you that their Human Practices activities helped create a project that is responsible and good for the world?|
 
   #### Education
 
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |1  |1  |3  |1  |How well did their work promote mutual learning and/or a dialogue?|
-  |   |   |1  |1  |3  |1  |Is it documented in a way that others can build upon?|
-  |   |1  |   |2  |2  |1  |Was it thoughtfully implemented?|
-  |   |   |1  |2  |3  |   |Did the team convince you that their activities would enable more people to shape, contribute to, and/or participate in synthetic biology?|
+  |   |   |1  |1  |2  |1  |How well did their work promote mutual learning and/or a dialogue?|
+  |   |   |1  |   |3  |1  |Is it documented in a way that others can build upon?|
+  |   |1  |   |2  |1  |1  |Was it thoughtfully implemented?|
+  |   |   |1  |1  |3  |   |Did the team convince you that their activities would enable more people to shape, contribute to, and/or participate in synthetic biology?|
 
   #### Model
   
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
-  |   |   |   |3  |1  |2  |How impressive is the modeling?|
-  |   |   |1  |1  |3  |1  |Did the model help the team understand a part, device, or system?|
-  |   |   |1  |2  |2  |1  |Did the team use measurements of a part, device, or system to develop the model?|
-  |   |   |   |3  |2  |1  |Does the modeling approach provide a good example for others?|  
+  |   |   |   |3  |1  |1  |How impressive is the modeling?|
+  |   |   |1  |2  |1  |1  |Did the model help the team understand a part, device, or system?|
+  |   |   |1  |2  |1  |1  |Did the team use measurements of a part, device, or system to develop the model?|
+  |   |   |   |3  |1  |1  |Does the modeling approach provide a good example for others?|  

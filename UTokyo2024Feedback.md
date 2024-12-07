@@ -66,7 +66,7 @@
   |bad|   |   |   |   |good|Agenda Item|
   |:-:|:-:|:-:|:-:|:-:|:-:|:--|
   |   |   |1  |1  |2  |1  |How impressive is this project?|
-  |   |1  |1  |1  |1  |   |Did the project work or is it likely to work?|
+  |   |1  |1  |1  |2  |   |Did the project work or is it likely to work?|
   |   |1  |2  |   |   |2  |Is the project likely to have an impact?|
   |   |   |1  |   |2  |2  |How well were engineering principles used (e.g., design-build-test cycle, use of standards, modularity, etc)?|
   |   |   |   |1  |3  |1  |How thoughtful and thorough was the team's consideration of human practices?|
